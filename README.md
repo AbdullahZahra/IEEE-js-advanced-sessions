@@ -1,5 +1,7 @@
 # JavaScript Advanced topics
-###### Here are the sessions that cover most of the topics :
+
+## Here are the sessions that cover most of the topics
+
 - [x] [session1](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session1)
 
 - [x] [session2](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session2)
